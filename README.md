@@ -11,7 +11,7 @@ The calculator website is a functional and user-friendly tool for performing bas
 User-friendly interface.
 Responsive design for seamless use on various devices.
   - [Demo](#demo)
-    ![image](https://github.com/divyasp25/ConnectVerse/blob/f5ccfce97bb1a6d4832c075a14481ecd11783cb7/website.png)
+    ![image](calci.png)
   - [Usage](#usage)
     To experience the calculator, simply navigate to the calci directory and open the index.html file in your web browser.
 
