@@ -11,6 +11,7 @@ The calculator website is a functional and user-friendly tool for performing bas
 User-friendly interface.
 Responsive design for seamless use on various devices.
   - [Demo](#demo)
+    ![image](https://github.com/divyasp25/ConnectVerse/blob/f5ccfce97bb1a6d4832c075a14481ecd11783cb7/website.png)
   - [Usage](#usage)
     To experience the calculator, simply navigate to the calci directory and open the index.html file in your web browser.
 
@@ -22,6 +23,7 @@ Responsive design for seamless use on various devices.
 Portfolio showcasing various web development projects.
 Contact information and links to resume.
   - [Demo](#demo)
+    ![image](https://github.com/divyasp25/ConnectVerse/blob/f5ccfce97bb1a6d4832c075a14481ecd11783cb7/website.png)
   - [Usage](#usage)
     To view my portfolio, simply navigate to the portfilio directory and open the index.html file in your web browser.
     
@@ -31,6 +33,7 @@ Contact information and links to resume.
   - [Features](#features)
    Seamless integration with the writing website. Feedback section. Eye-catching design to capture attention.
   - [Demo](#demo)
+    ![image](https://github.com/divyasp25/ConnectVerse/blob/f5ccfce97bb1a6d4832c075a14481ecd11783cb7/website.png)
   - [Usage](#usage)
     To experience the landing page, simply navigate to the landingpage_writing directory and open the index.html file in your web browser.
 
