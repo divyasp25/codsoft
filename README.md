@@ -23,4 +23,14 @@ Portfolio showcasing various web development projects.
 Contact information and links to resume.
   - [Demo](#demo)
   - [Usage](#usage)
-    To experience the calculator, simply navigate to the calci directory and open the index.html file in your web browser.
+    To experience the calculator, simply navigate to the portfilio directory and open the index.html file in your web browser.
+    
+- [Landing page](#Landing-page)
+  - [Overview](#overview)
+    The landing page for the writing website is designed to captivate and engage visitors, enticing them to explore the world of written content. It provides a visually appealing introduction to the writing website and encourages users to delve into the rich content it offers.
+  - [Features](#features)
+   Seamless integration with the writing website. Feedback section. Eye-catching design to capture attention.
+  - [Demo](#demo)
+  - [Usage](#usage)
+    To experience the calculator, simply navigate to the landingpage_writing directory and open the index.html file in your web browser.
+
