@@ -1,5 +1,5 @@
 # codsoft
-The calculator website is a functional and user-friendly tool for performing basic arithmetic operations. Its intuitive interface allows users to quickly and easily perform calculations. Whether you're a student working on math homework or someone in need of a quick calculation, this calculator has you covered.
+This repo is a collection of three web applications—a calculator website, a personal portfolio, and a captivating landing page for a writing website. Each component serves a unique purpose, showcasing a variety of web development skills and design principles.
 
 ## Table of Contents
 
