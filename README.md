@@ -23,7 +23,7 @@ Portfolio showcasing various web development projects.
 Contact information and links to resume.
   - [Demo](#demo)
   - [Usage](#usage)
-    To experience the calculator, simply navigate to the portfilio directory and open the index.html file in your web browser.
+    To view my portfolio, simply navigate to the portfilio directory and open the index.html file in your web browser.
     
 - [Landing page](#Landing-page)
   - [Overview](#overview)
@@ -32,5 +32,5 @@ Contact information and links to resume.
    Seamless integration with the writing website. Feedback section. Eye-catching design to capture attention.
   - [Demo](#demo)
   - [Usage](#usage)
-    To experience the calculator, simply navigate to the landingpage_writing directory and open the index.html file in your web browser.
+    To experience the landing page, simply navigate to the landingpage_writing directory and open the index.html file in your web browser.
 
